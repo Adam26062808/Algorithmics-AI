@@ -1,0 +1,38 @@
+questions = [
+    "1. What is the average number of kills per player level?",
+    "2. How does total damage correlate with total kills?",
+    "3: Total bomb plants and defuses by map",
+    "4. What is the average headshot percentage for players with more than 20 kills?",
+    "5. Which map has the highest average number of kills per match?",
+    "6. What is the distribution of player levels?",
+    "7. Do players with more assists tend to have more kills?",
+    "9. Which player has the highest headshot percentage?",
+    "10. What is the average number of rounds played per match per map?"
+    ]
+
+"1. What is the average number of kills per player level?"
+--> The higher level a person is the more kills on average they get in a match
+The answer...., so the conclusion 
+
+"2.  How does total damage correlate with total kills?"
+--> the more total damage they cause the more total kills they have
+
+"3.  Total bomb plants and defuses by map"
+--> The mirage island is more bomb plants and more bomb defuse
+    The ancient island is less bomb plants and less bomb defuse
+
+"4. What is the average headshot percentage for players with more than 20 kills?"
+--> 10
+
+"5. Which map has the highest average number of kills per match?"
+--> The map vertigo have the most average kills
+    The map inferno have the lowest average kills.
+
+"7.Do players with more assists tend to have more kills?"
+--> The more assistant is not mean they have more kills`
+
+"9. Which player has the highest headshot percentage?"
+--> The guy have id 79 is the most highest headshot percentage(24)
+
+"10.  What is the average number of rounds played per match per map"
+--> The map inferno have the most round played and map dust2 have the lowest round played.
